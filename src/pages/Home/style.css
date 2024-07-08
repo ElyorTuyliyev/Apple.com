@@ -1,0 +1,20 @@
+.home__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  i {
+    cursor: pointer;
+  }
+}
+
+.home__logo {
+  width: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.home__img-wrapper {
+  height: 90vh;
+  background-color: #f5f5f7;
+  cursor: pointer;
+}
