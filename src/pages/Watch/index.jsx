@@ -1,7 +1,9 @@
 function Watch() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="watch"> hello watch</p>
+      </div>
     </>
   );
 }

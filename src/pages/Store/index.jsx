@@ -1,7 +1,9 @@
 function Store() {
   return (
     <>
-      <div></div>
+      <div>
+        <p> hello Store </p>
+      </div>
     </>
   );
 }

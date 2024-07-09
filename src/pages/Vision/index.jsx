@@ -1,7 +1,10 @@
 function Vision() {
   return (
     <>
-      <div></div>
+      <div>
+        vision
+        <p className="vision"> hello vision</p>
+      </div>
     </>
   );
 }

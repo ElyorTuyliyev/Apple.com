@@ -1,7 +1,9 @@
 function Support() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="support"> hello support</p>
+      </div>
     </>
   );
 }

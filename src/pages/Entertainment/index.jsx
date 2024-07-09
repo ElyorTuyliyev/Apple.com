@@ -1,7 +1,9 @@
 function Entertainment() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="entertainment">hello Entertainment</p>
+      </div>
     </>
   );
 }

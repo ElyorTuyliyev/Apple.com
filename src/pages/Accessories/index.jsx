@@ -1,7 +1,9 @@
 function Accessories() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="accessories">hello accessories</p>
+      </div>
     </>
   );
 }

@@ -1,7 +1,9 @@
 function IPad() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="ipad">hello ipad</p>
+      </div>
     </>
   );
 }

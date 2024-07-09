@@ -1,7 +1,9 @@
 function Iphone() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="iphone">hello Iphone</p>
+      </div>
     </>
   );
 }

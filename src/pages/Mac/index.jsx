@@ -1,7 +1,9 @@
 function Mac() {
   return (
     <>
-      <div></div>
+      <div>
+        <p className="Mac"> hello Mac</p>
+      </div>
     </>
   );
 }
