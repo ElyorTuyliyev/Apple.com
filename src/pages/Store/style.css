@@ -1,0 +1,18 @@
+.store__title-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 50px;
+  margin-top: 50px;
+}
+
+.store__title {
+  width: 650px;
+  font-size: 43px;
+  color: #686868;
+  margin: 0;
+
+  span {
+    color: #000;
+  }
+}

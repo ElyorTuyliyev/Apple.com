@@ -4,8 +4,9 @@ import "./style.css";
 function HomeTitle(props) {
   return (
     <>
-      <div className="home__title">{props.title}</div>
-      <Link to={props.link}></Link>
+      <Link className="home__title" to={props.link}>
+        {props.title}
+      </Link>
     </>
   );
 }

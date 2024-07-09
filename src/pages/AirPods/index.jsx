@@ -1,7 +1,12 @@
+import Header from "../Home/components/header";
+
 function AirPods() {
   return (
     <>
-      <div></div>
+      <Header />
+      <div>
+        <p>hello AirPods</p>
+      </div>
     </>
   );
 }

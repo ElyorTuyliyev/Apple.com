@@ -1,8 +1,10 @@
+import Header from "../Home/components/header";
+
 function Vision() {
   return (
     <>
+      <Header />
       <div>
-        vision
         <p className="vision"> hello vision</p>
       </div>
     </>
